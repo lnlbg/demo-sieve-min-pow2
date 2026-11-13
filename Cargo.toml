@@ -1,0 +1,12 @@
+[package]
+name = "demo-sieve-min-pow2"
+version = "0.1.0"
+edition = "2024"
+authors = ["Lachezar Lazarow <lnlbg@yahoo.com>"]
+description = "A Rust binary providing sieve algorithms with minimum power-of-2 strategies."
+repository = "https://github.com/lnlbg/demo-sieve-min-pow2"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+rayon = "1.10"
